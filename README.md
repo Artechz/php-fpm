@@ -1,5 +1,5 @@
 # PHP-FPM adapted multi-platform Docker image
-This image is adapted to work with the pwii environment while also being multi-platform `linux/amd64` and `linux/arm64`.
+This image is adapted to work with the pwii environment while also being multi-platform supporting `linux/amd64` and `linux/arm64`.
 
 You can use it using the pull command with Docker:
 ```
